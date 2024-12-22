@@ -1,0 +1,78 @@
+{
+  "node": {
+    "1e098b39eda5e6fdc4fd3cb8efc15d0aa586f3bc": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%5D&__client_imported__=!",
+        "app/updateTodo/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CupdateTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22UpdateTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/updateTodo/[id]/page": "action-browser"
+      }
+    },
+    "999de9759fd3c07f1b76d11b26ea7ccabeb1a376": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%5D&__client_imported__=!",
+        "app/updateTodo/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CupdateTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22UpdateTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/updateTodo/[id]/page": "action-browser"
+      }
+    },
+    "c03c910081fa69c5ac86d702b42b184cefc5b793": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%5D&__client_imported__=!",
+        "app/updateTodo/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CupdateTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22UpdateTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/updateTodo/[id]/page": "action-browser"
+      }
+    },
+    "e201daaf269f8ed298490c65555c6fa250e17538": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%5D&__client_imported__=!",
+        "app/updateTodo/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CupdateTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22UpdateTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/updateTodo/[id]/page": "action-browser"
+      }
+    },
+    "2a77b2925b99f29b47206a44d63ba6212abb229f": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CaddTodos.js%22%2C%5B%22default%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CdeleteTodos.js%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "5d54886e268a74988285a27bdba719c7c6748e89": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CaddTodos.js%22%2C%5B%22default%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CdeleteTodos.js%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "7ed09f57fa50d8a724b8fc1cd71587f24d2e3ad0": {
+      "workers": {
+        "app/updateTodo/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CupdateTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22UpdateTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/updateTodo/[id]/page": "action-browser"
+      }
+    },
+    "a77f82826a6e2666c4b0307eb7c72643aeb3e0d6": {
+      "workers": {
+        "app/updateTodo/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CgetTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22getTodos%22%2C%22%24%24ACTION_1%22%2C%22getATodo%22%5D%5D%2C%5B%22D%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CtodoApp%5C%5Ctodo%5C%5Clib%5C%5CupdateTodos.js%22%2C%5B%22%24%24ACTION_0%22%2C%22UpdateTodo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/updateTodo/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "lkvJBSyR5RraMDvuboU5wi3cDWU41W0MW3Fd7Wq6EoY="
+}

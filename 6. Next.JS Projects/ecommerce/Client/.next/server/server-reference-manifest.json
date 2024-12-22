@@ -1,0 +1,14 @@
+{
+  "node": {
+    "da55e6257256b89ad1ab1c32009d84cd4a8c6800": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CProjects%5C%5CNEXTjsProjects%5C%5CProjects%5C%5Cecommerce%5C%5CClient%5C%5Cdatabase%5C%5CConnect.js%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "5KOHcKgoKlbq59sj2P09qUtlQcaTS94eAuVrSlT/7XQ="
+}

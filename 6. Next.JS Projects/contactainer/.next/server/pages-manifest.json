@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/fetchContacts": "pages/api/fetchContacts.js",
+  "/api/addContact": "pages/api/addContact.js",
+  "/About": "pages/About.js",
+  "/update/[id]": "pages/update/[id].js",
+  "/api/getUpdContact/[id]": "pages/api/getUpdContact/[id].js",
+  "/api/updateContact": "pages/api/updateContact.js",
+  "/api/deleteContact/[id]": "pages/api/deleteContact/[id].js"
+}
