@@ -5,8 +5,10 @@ if (isset($_GET['sno'])) {
     $query="DELETE FROM todos WHERE sno=$sno";
     $result=$conn->query($query);
     if ($result===TRUE) {
-        header("Location: index.php?delete=true");
+        header("Location: /TodosApp/");
+        exit;
     }
 }
-$conn->close();
+
+
 ?>

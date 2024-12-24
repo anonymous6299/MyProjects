@@ -13,32 +13,6 @@
 <?php
     include("navbar.php");
 ?>
-    <?php
-    include("addTodo.php");
-    if (isset($_GET['add'])) {
-    if ($_GET['add']==='true') {
-        echo '<div class="alert alert-success alert-dismissible fade show container my-3" role="alert">
-            <strong>Success!</strong> Todo Added Successfully.
-            <a href="/TodosApp"><button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></a>
-        </div>';
-    }
-}
-    if (isset($_GET['delete'])) {
-    if ($_GET['delete']==='true') {
-        echo '<div class="alert alert-success alert-dismissible fade show container my-3" role="alert">
-            <strong>Success!</strong> Todo Deleted Successfully.
-            <a href="/TodosApp"><button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></a>
-        </div>';
-    }}
-    if (isset($_GET['upd'])) {
-    if ($_GET['upd']==='true') {
-        echo '<div class="alert alert-success alert-dismissible fade show container my-3" role="alert">
-            <strong>Success!</strong> Todo Updated Successfully.
-            <a href="/TodosApp"><button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></a>
-        </div>';
-    }
-}
-?>
     <h1 class="text-center mt-4">PhPTodosApp</h1>
     <form class="container mt-4" action="/TodosApp/addTodo.php" method="post">
         <div class="mb-3">

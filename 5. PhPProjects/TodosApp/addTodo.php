@@ -6,7 +6,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     $query = "INSERT INTO todos(title, description) VALUES('$title', '$description')";
     $result=$conn->query($query);
     if ($result===TRUE) {
-        header("Location: index.php?add=true");
+        header("Location: /TodosApp/");
+        exit;
     }
 }
 $conn->close();
